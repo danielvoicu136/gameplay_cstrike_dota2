@@ -5,10 +5,12 @@ This is Dota 2 as Counter-Strike Mod
 - Easy to add new skills, ultimate and rune (need only the definition , the menus, saves and infrastructure are automated)   
 - Easy to configure each skill max level and access level (implemented in definition) 
 - Easy to configure each ultimate level and access level (implemented in definition)
-- Set the PLAYER MAX LEVEL and the xp will be auto calculated (parametric in config.ini)
+- Set the PLAYER MAX LEVEL and the XP will be auto calculated (parametric in config.ini)
 - Set the SKILL MAX LEVEL and the skill powers will be auto balanced (parametric in definition)
 - Built in : Bank $ System , TimePlayed H System 
 - Loot Box the rune on death and other bonuses 
-- Help guides local built in menus (easy to understand, eliminate the need for HTML CSS based MOTDs due to high loading time) 
+- Help guides local built in menus (easy to understand, eliminate the need for HTML CSS based MOTDs due to high loading time)
+- Save System is based on nVault Array (no need to do anything, no database required, is saved locally on your server, plug and play) 
 - Press M to open the game main menu
+- MySQL support comming soon 
 - More maintenance updates
