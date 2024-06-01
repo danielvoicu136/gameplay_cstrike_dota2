@@ -13,5 +13,6 @@ This is Dota 2 as Counter-Strike Mod
 - Save System is based on nVault Array (no need to do anything, no database required, is saved locally on your server, plug and play) 
 - Press M to open the game main menu
 - Focus on clean, short and readable code 
-- MySQL support comming soon 
+- MySQL support comming soon
 - More maintenance updates
+- This project is IN WORK 
