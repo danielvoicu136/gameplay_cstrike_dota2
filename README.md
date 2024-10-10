@@ -1,5 +1,5 @@
 This is Dota 2 as Counter-Strike Mod 
-- You are your own dota 2 hero with free character selection
+- Create your own dota 2 hero with free character selection
 - Select the skills you prefer and eliminate your opponents 
 - Select the ultimate you prefer and outplay the enemy 
 - Easy to add new skills, ultimate and rune (need only the definition , the menus, saves and infrastructure are automated)   
